@@ -1,3 +1,5 @@
-Hi,Git!
+
+Hi,How are you Git!
 Edit!
 branch Edit!
+merge
