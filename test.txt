@@ -1,3 +1,4 @@
 Hello,Git!
 Edit!
 branch Edit!
+merge
